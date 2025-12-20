@@ -17,13 +17,13 @@ Connect: Connect your Xbox 360 to your router (Ethernet is best).
 
 Aurora: Look at the bottom left of the screen for your IP address (e.g., 192.168.1.50).
 
-PC: Open FileZilla (free software).
+PC: Open FileZilla Client (free software).
 
 Login:
 
 Host: Your Xbox IP
 
-User: xbox
+User: xbox (could be different check settings then modules then ftp server)
 
 Pass: xbox
 
